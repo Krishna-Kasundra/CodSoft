@@ -1,12 +1,19 @@
-CodSoft: Machine Learning Projects.
+*CodSoft: Machine Learning Projects.*
 
 This repository contains three machine learning projects completed as part of the CodSoft Internship Program. Each project demonstrates the application of various machine learning techniques to solve real-world problems.
+
+
+
+
+
+
+
+
 
 Projects Included
 
 1. Spam SMS Detection Project
-Objective:
-To build an AI model that classifies SMS messages as either spam or legitimate (ham).
+Objective:To build an AI model that classifies SMS messages as either spam or legitimate (ham).
 
 Overview:
 This project leverages natural language processing (NLP) techniques and machine learning classifiers to identify spam messages with high accuracy. The workflow includes text preprocessing, feature transformation, and model evaluation.
@@ -29,7 +36,7 @@ Recall: 92% (Macro Average)
 F1-Score: 95% (Macro Average)
 
 
-
+_______________________________________________________________________________________________________________________________________________________________
 
   
 
@@ -61,7 +68,7 @@ Precision: 96.94%
 Recall: 96.33%
 F1 Score: 96.64%
 
-
+________________________________________________________________________________________________________________________________________
 
 
 3.Movie Genre Classification Project
