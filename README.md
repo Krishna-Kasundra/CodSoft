@@ -91,10 +91,7 @@ o   Evaluation Metrics: Accuracy, precision, recall, and F1-score.
 
 -Result: An efficient and scalable solution for predicting movie genres with high performance across evaluation metrics.
 
-Accuracy: 96.68%             
-Precision: 96.94%
+Accuracy: 58%           
 
-Recall: 96.33%         
-F1 Score: 96.64%
 
  
